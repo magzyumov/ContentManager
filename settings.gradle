@@ -1,0 +1,3 @@
+include ':contentmanager'
+include ':app'
+rootProject.name = "ContentManager"
